@@ -1,2 +1,56 @@
 list_all_disks.sh
 
+OUTPUT should be like:
+
+HDD Disk: 
+
+SLOT SERIAL PATH VENDOR MODEL 
+
+============================================================ 
+
+1 29M0A0FWFQTE1908 /dev/sda HP MB004000JWFVP 
+
+2 29M0A0FXFQTE1908 /dev/sdb HP MB004000JWFVP 
+
+3 29M0A0EUFQTE1908 /dev/sdc HP MB004000JWFVP 
+
+4 29M0A0B3FQTE1908 /dev/sdd HP MB004000JWFVP 
+
+5 29M0A0G2FQTE1908 /dev/sde HP MB004000JWFVP 
+
+6 29M0A0FYFQTE1908 /dev/sdf HP MB004000JWFVP 
+
+7 29W0A0HRFQTE1908 /dev/sdg HP MB004000JWFVP 
+
+8 29W0A0L7FQTE1908 /dev/sdh HP MB004000JWFVP 
+
+9 29K0A180FQTE1908 /dev/sdi HP MB004000JWFVP 
+
+10 29W0A13EFQTE1908 /dev/sdj HP MB004000JWFVP 
+
+11 29M0A0FLFQTE1908 /dev/sdk HP MB004000JWFVP 
+
+12 29M0A0FMFQTE1908 /dev/sdl HP MB004000JWFVP 
+
+ 
+
+SSD Disk: 
+
+SLOT SERIAL PATH VENDOR MODEL 
+
+============================================================ 
+
+1 S3M0NA0M300120 /dev/nvme1n1 NVMe MT001600KWHAC 
+
+ 
+
+System Disk: 
+
+SLOT SERIAL PATH VENDOR MODEL 
+
+============================================================ 
+
+1 185220CEFA7F /dev/sdm ATA MR000240GWFLU 
+
+2 185220CEE7B1 /dev/sdn ATA MR000240GWFLU 
+
